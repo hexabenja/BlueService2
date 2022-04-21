@@ -1,0 +1,28 @@
+.navbar-nav{
+    color:white;
+}
+
+.carousel-inner{
+    width: 17rem;
+}
+
+.galeria{
+    padding: 2rem;
+    text-align: center;
+    background-color: #000000;
+ 
+ 
+ }
+ 
+ .imageng {
+     display: inline-block;
+     margin: 1rem;
+ 
+ }
+ 
+ 
+ 
+ .imageng img{
+     height: 200%;
+     width: 20rem;
+ }
