@@ -26,3 +26,11 @@
      height: 200%;
      width: 20rem;
  }
+
+ .cartas{
+     display: inline-block;
+ }
+
+ .card{
+     display: inline-block;
+ }
